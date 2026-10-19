@@ -88,19 +88,19 @@ Log in using the admin credentials configured in your environment variables.
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](Screenshots/Login.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ### Books Management
-![Books Management](screenshots/books.png)
+![Books Management](Screenshots/Books.png)
 
 ### Users Management
-![Users Management](screenshots/users.png)
+![Users Management](Screenshots/Users.png)
 
 ### Borrowings Management
-![Borrowings Management](screenshots/borrowings.png)
+![Borrowings Management](Screenshots/Borrowings.png)
 
 ## 👨‍💻 Author
 
