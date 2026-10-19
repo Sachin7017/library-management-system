@@ -85,6 +85,23 @@ Log in using the admin credentials configured in your environment variables.
 - Keep real secrets in environment variables.
 - Do not upload backup files containing credentials.
 
+## 📸 Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Books Management
+![Books Management](screenshots/books.png)
+
+### Users Management
+![Users Management](screenshots/users.png)
+
+### Borrowings Management
+![Borrowings Management](screenshots/borrowings.png)
+
 ## 👨‍💻 Author
 
 Sachin Kumar
